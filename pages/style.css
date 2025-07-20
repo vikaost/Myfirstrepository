@@ -1,0 +1,27 @@
+
+h1{
+            color: rgb(144, 55, 96);
+            font-size: 25px;
+        }
+
+ .my-buttons {
+            background-color: rgb(198, 198, 231);
+            color: white;
+            border-radius: 5px;
+}
+
+#contacts{
+            color: rgb(52, 57, 151);
+            font-size: 25px;
+}
+
+.newcontacts{
+            color: rgb(150, 36, 129);
+            font-size: 18px;
+}
+
+.description{
+            color: rgb(4, 9, 24);
+            font-size: 16px;
+            
+}
